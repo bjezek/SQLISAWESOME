@@ -28,3 +28,6 @@ cumulative returns of the ETF portfolio.
 is far better over time to invest in ETF for lower downside risk while having the ability 
 to strongly participate in upside growth over time resulting in the end total being a larger
 ROI. 
+# ScreenShot
+
+![image](https://user-images.githubusercontent.com/106267420/179883548-eb60e4d6-b439-460f-9805-30934b58744a.png)
